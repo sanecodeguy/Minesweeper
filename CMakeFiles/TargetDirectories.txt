@@ -1,0 +1,3 @@
+/home/doubleroote/Downloads/Archive/CMakeFiles/Minesweeper.dir
+/home/doubleroote/Downloads/Archive/CMakeFiles/edit_cache.dir
+/home/doubleroote/Downloads/Archive/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,7 @@
+# ninja log v6
+56	778	1748410083601077993	build.ninja	c9a1a7147229e53b
+56	778	1748410083601077993	/home/doubleroote/Downloads/Archive/cmake_install.cmake	c9a1a7147229e53b
+160	15805	1748410098452670907	CMakeFiles/Minesweeper.dir/game.cpp.o	af3dc7e11a7f91b6
+15840	21130	1748410114134025890	Minesweeper	e7cfd7def6716400
+75	4879	1748410195390258034	CMakeFiles/Minesweeper.dir/game.cpp.o	af3dc7e11a7f91b6
+4880	5498	1748410200195424021	Minesweeper	e7cfd7def6716400
