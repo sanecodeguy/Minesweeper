@@ -1,4 +1,4 @@
-# Minesweeper Game in C++ with SFML
+# Minesweeper | C++ with SFML
 
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![SFML](https://img.shields.io/badge/SFML-8CC03F?style=for-the-badge&logo=sfml&logoColor=white)
@@ -7,6 +7,8 @@
 A classic Minesweeper game built with C++ and SFML, featuring multiple difficulty levels, score tracking, and a sleek graphical interface.
 
 ![Minesweeper Demo](demo.gif) 
+![Demo](https://github.com/user-attachments/assets/610db764-469f-45f5-943b-9c039c06becb)
+
 
 ## Features
 
